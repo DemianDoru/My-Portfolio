@@ -428,7 +428,6 @@ box-shadow: 0 0 25px transparent;
     font-weight: 600;
     max-height: 100px;
     line-height: 1.7;
-    margin: auto;
 }
 .testimonials{
     background: var(--second-bg-color);
